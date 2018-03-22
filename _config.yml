@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "just show something here"
